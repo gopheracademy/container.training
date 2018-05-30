@@ -6,16 +6,16 @@ title: |
 chat: "[Slack](https://dockercommunity.slack.com/messages/C7GKACWDV)"
 #chat: "[Gitter](https://gitter.im/jpetazzo/workshop-yyyymmdd-city)"
 
-gitrepo: github.com/jpetazzo/container.training
+gitrepo: github.com/gopheracademy/container.training
 
-slides: http://container.training/
+slides: http://kubernetes.academy/
 
 exclude:
 - self-paced
 
 chapters:
 - common/title.md
-- logistics.md
+- logistics-esmbjk.md
 - intro/intro.md
 - common/about-slides.md
 - common/toc.md
