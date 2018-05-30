@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sshKeyData": {
-      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXTIl/M9oeSlcsC5Rfe+nZr4Jc4sl200pSw2lpdxlZ3xzeP15NgSSMJnigUrKUXHfqRQ+2wiPxEf0Odz2GdvmXvR0xodayoOQsO24AoERjeSBXCwqITsfp1bGKzMb30/3ojRBo6LBR6r1+lzJYnNCGkT+IQwLzRIpm0LCNz1j08PUI2aZ04+mcDANvHuN/hwi/THbLLp6SNWN43m9r02RcC6xlCNEhJi4wk4VzMzVbSv9RlLGST2ocbUHwmQ2k9OUmpzoOx73aQi9XNnEaFh2w/eIdXM75VtkT3mRryyykg9y0/hH8/MVmIuRIdzxHQqlm++DLXVH5Ctw6a4kS+ki7 workshop"
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNbFnPhQvvO3wdmeNYOMPnXEzkXY7V9Uil3TZuowA8tw8oNDQSF0pymf6TyqRwN32BoyTbVwV+YLVKjBiCWktNRqZNfOL5rx5BEaBtw6QQMspyIcuM92ndxoRILCmRGVWZVyQzGtGLqH+Xun2r8pjQsXYE96BAaVenJHzVa7BvBSjpufMYziTzNuOzav8a6xbg5m0LnYMJLqOWEpSMsFlxHFrNkDF/lwU/WH3vItsKJkGBwmQ+AwZmZhMmfQPe+UYeuoeQ5scsuTVGURMZTURbgb4KN7dgxTBTfC3F8OkT8bcfuFKjH9GNCYa2zsjNpjeSFJVsZpmBM+CBsR+iBGlZ bketelsen@gmail.com"
       },
     "workshopName": {
-      "value": "workshop"
+      "value": "velocity"
     },
     "numberOfInstances": {
       "value": 3

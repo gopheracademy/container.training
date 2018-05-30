@@ -152,6 +152,10 @@ After the workshop is over, remove the instances:
 ```
 az group delete --resource-group workshop
 ```
+### SSH Key Generation without a passphrase
+```
+ssh-keygen -f $HOME/.ssh/id_rsa -t rsa -N ''
+```
 
 ### Example Steps to Configure Instances from a non-AWS Source
 
