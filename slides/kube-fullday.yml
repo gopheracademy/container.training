@@ -6,9 +6,9 @@ title: |
 #chat: "[Gitter](https://gitter.im/jpetazzo/workshop-yyyymmdd-city)"
 chat: "In person!"
 
-gitrepo: github.com/jpetazzo/container.training
+gitrepo: github.com/gopheracademy/container.training
 
-slides: http://container.training/
+slides: https://kubernetes.academy/
 
 exclude:
 - self-paced
