@@ -16,30 +16,6 @@ Don't worry, we will get to that fast enough!
 
 ---
 
-## Elevator pitch
-
-### (for your manager, your boss...)
-
----
-
-## OK... Why the buzz around containers?
-
-* The software industry has changed
-
-* Before:
-  * monolithic applications
-  * long development cycles
-  * single environment
-  * slowly scaling up
-
-* Now:
-  * decoupled services
-  * fast, iterative improvements
-  * multiple environments
-  * quickly scaling out
-
----
-
 ## Deployment becomes very complex
 
 * Many different stacks:
@@ -132,11 +108,7 @@ class: pic
 
 * etc.
 
----
 
-## Elevator pitch
-
-### (for your fellow devs and ops)
 
 ---
 
@@ -231,50 +203,6 @@ Note: this is not covered in this intro level workshop!
 
 class: extra-details
 
-## What did Docker bring to the table?
-
-### Docker before/after
-
----
-
-class: extra-details
-
-## Formats and APIs, before Docker
-
-* No standardized exchange format.
-  <br/>(No, a rootfs tarball is *not* a format!)
-
-* Containers are hard to use for developers.
-  <br/>(Where's the equivalent of `docker run debian`?)
-
-* As a result, they are *hidden* from the end users.
-
-* No re-usable components, APIs, tools.
-  <br/>(At best: VM abstractions, e.g. libvirt.)
-
-Analogy: 
-
-* Shipping containers are not just steel boxes.
-* They are steel boxes that are a standard size, with the same hooks and holes.
-
----
-
-class: extra-details
-
-## Formats and APIs, after Docker
-
-* Standardize the container format, because containers were not portable.
-
-* Make containers easy to use for developers.
-
-* Emphasis on re-usable components, APIs, ecosystem of standard tools.
-
-* Improvement over ad-hoc, in-house, specific tools.
-
----
-
-class: extra-details
-
 ## Shipping, before Docker
 
 * Ship packages: deb, rpm, gem, jar, homebrew...
@@ -313,26 +241,6 @@ Layers:
 * Dependencies
 * Application JAR
 * Configuration
-
----
-
-class: extra-details
-
-## Devs vs Ops, before Docker
-
-* Drop a tarball (or a commit hash) with instructions.
-
-* Dev environment very different from production.
-
-* Ops don't always have a dev environment themselves ...
-
-* ... and when they do, it can differ from the devs'.
-
-* Ops have to sort out differences and make it work ...
-
-* ... or bounce it back to devs.
-
-* Shipping code causes frictions and delays.
 
 ---
 
