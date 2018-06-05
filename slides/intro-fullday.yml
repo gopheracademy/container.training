@@ -37,21 +37,21 @@ chapters:
   - intro/Getting_Inside.md
   - intro/Container_Networking_Basics.md
   - intro/Network_Drivers.md
-  - intro/Container_Network_Model.md
+  #- intro/Container_Network_Model.md
   #- intro/Connecting_Containers_With_Links.md
-  - intro/Ambassadors.md
+  #- intro/Ambassadors.md
 - - intro/Local_Development_Workflow.md
   - intro/Working_With_Volumes.md
-  - intro/Compose_For_Dev_Stacks.md
-  - intro/Docker_Machine.md
-  - intro/Advanced_Dockerfiles.md
+#  - intro/Compose_For_Dev_Stacks.md
+#  - intro/Docker_Machine.md
+#  - intro/Advanced_Dockerfiles.md
   - intro/Application_Configuration.md
   - intro/Logging.md
-- - intro/Namespaces_Cgroups.md
-  - intro/Copy_On_Write.md
+#- - intro/Namespaces_Cgroups.md
+  #- intro/Copy_On_Write.md
   #- intro/Containers_From_Scratch.md
-  - intro/Container_Engines.md
-  - intro/Ecosystem.md
-  - intro/Orchestration_Overview.md
+  #- intro/Container_Engines.md
+  #- intro/Ecosystem.md
+  #- intro/Orchestration_Overview.md
   - common/thankyou.md
   - intro/links.md
