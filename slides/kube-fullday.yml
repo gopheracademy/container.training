@@ -39,6 +39,7 @@ chapters:
   - kube/logs-centralized.md
   - kube/helm.md
   - kube/namespaces.md
+  - kube/control-plane.md
   - kube/whatsnext.md
   - kube/links.md
   - common/thankyou.md
