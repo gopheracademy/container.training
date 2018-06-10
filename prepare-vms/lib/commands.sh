@@ -55,7 +55,7 @@ _cmd_cards() {
         rm -f tags/$TAG/$f
 
         # Move the generated file and replace it with a symlink
-        mv -f $f tags/$TAG/$f && ln -s tags/$TAG/$f $f
+        mv -f $f tags/$TAG/$f && ln -s tags/$TAG/$f $TAG-$f
     done
 
     info "Cards created. You can view them with:"

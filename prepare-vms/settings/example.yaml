@@ -1,7 +1,7 @@
 # customize your cluster size, your cards template, and the versions
 
 # Number of VMs per cluster
-clustersize: 5
+clustersize: 3
 
 # Jinja2 template to use to generate ready-to-cut cards
 cards_template: cards.html

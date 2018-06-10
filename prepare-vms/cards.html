@@ -1,5 +1,5 @@
 {# Feel free to customize or override anything in there! #}
-{%- set url = "http://container.training/" -%}
+{%- set url = "https://kubernetes.academy/" -%}
 {%- set pagesize = 12 -%}
 {%- if clustersize == 1 -%}
     {%- set workshop_name = "Docker workshop" -%}
@@ -8,7 +8,7 @@
     {%- set machine_is_or_machines_are = "machine is" -%}
     {%- set image_src = "https://s3-us-west-2.amazonaws.com/www.breadware.com/integrations/docker.png" -%}
 {%- else -%}
-    {%- set workshop_name = "orchestration workshop" -%}
+    {%- set workshop_name = "Kubernetes workshop" -%}
     {%- set cluster_or_machine = "cluster" -%}
     {%- set this_or_each = "each" -%}
     {%- set machine_is_or_machines_are = "machines are" -%}
