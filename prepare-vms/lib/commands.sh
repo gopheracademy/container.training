@@ -84,7 +84,7 @@ _cmd_deploy() {
     pssh -I tee /tmp/settings.yaml <$SETTINGS
     pssh "
     sudo apt-get update &&
-    sudo apt-get install -y python-setuptools &&
+    sudo apt-get install -y python-setuptools fail2ban &&
     sudo easy_install pyyaml"
 
     # Copy postprep.py to the remote machines, and execute it, feeding it the list of IP addresses
