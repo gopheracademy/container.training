@@ -2,9 +2,9 @@
 
  - Hello! We are:
 
-   - .emoji[✨] Erik ([@erikstmartin](https://twitter.com/erikstmartin))
+   - .emoji[✨] Erik St. Martin ([@erikstmartin](https://twitter.com/erikstmartin))
 
-   - .emoji[🌟] Brian ([@bketelsen](https://twitter.com/bketelsen))
+   - .emoji[🌟] Brian Ketelsen ([@bketelsen](https://twitter.com/bketelsen))
 
 
 - Feel free to interrupt for questions at any time
