@@ -131,7 +131,7 @@ div.title > p:first-child {
   font-size: 300%;
 }
 
-div.pic span.interstitial img {
+div.pic span.interstitial img, span.interstitial img {
   width: 100%;
   max-height: unset;
   max-width: unset;
