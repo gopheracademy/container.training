@@ -40,7 +40,7 @@
 
 - Load the YAML file into our cluster:
   ```bash
-  kubectl apply -f https://goo.gl/MUZhE4
+  kubectl apply -f https://cda.ms/wY
   ```
 
 ]
